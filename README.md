@@ -157,7 +157,4 @@ This project explores and analyzes a comprehensive **App Store dataset** sourced
 
 ---
 
-## 📬 Contact
-- **Author**: Subham Mangi  
-- **Email**: [Subham.mangi@utdallas.edu](mailto:Subham.mangi@utdallas.edu)  
-- **GitHub**: [SUBHAMMANGI](https://github.com/SUBHAMMANGI)
+
